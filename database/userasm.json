@@ -1,0 +1,86 @@
+{
+  "user": [
+    {
+      "taikhoan": "admin",
+      "matkhau": "1",
+      "anhdd": "https://i.imgur.com/qY9H6zB.jpg",
+      "tentk": "Lê Văn Huy",
+      "loaitk": "1",
+      "id": 1
+    },
+    {
+      "taikhoan": "user",
+      "matkhau": "1",
+      "anhdd": "https://i.imgur.com/fFjJg70.png",
+      "tentk": "Khách hàng",
+      "loaitk": "0",
+      "id": 2
+    },
+    {
+      "taikhoan": "huy",
+      "matkhau": "1",
+      "anhdd": "https://i.imgur.com/fFjJg70.png",
+      "tentk": "Khách hàng",
+      "loaitk": "0",
+      "id": 3
+    },
+    {
+      "taikhoan": "huy",
+      "matkhau": "55",
+      "anhdd": "https://i.imgur.com/fFjJg70.png",
+      "tentk": "Khách hàng",
+      "loaitk": "0",
+      "id": 4
+    },
+    {
+      "taikhoan": "huy88",
+      "matkhau": "1",
+      "anhdd": "https://i.imgur.com/fFjJg70.png",
+      "tentk": "Khách hàng",
+      "loaitk": "0",
+      "id": 5
+    },
+    {
+      "taikhoan": "nam",
+      "matkhau": "11",
+      "anhdd": "https://i.imgur.com/fFjJg70.png",
+      "tentk": "Khách hàng",
+      "loaitk": "0",
+      "id": 6
+    },
+    {
+      "taikhoan": "admin",
+      "matkhau": "1",
+      "anhdd": "https://i.imgur.com/fFjJg70.png",
+      "tentk": "Khách hàng",
+      "loaitk": "0",
+      "id": 7
+    }
+  ],
+  "baiviet": [
+    {
+      "avatar": "https://i.imgur.com/qY9H6zB.jpg",
+      "tentk": "Lê Văn Huy",
+      "noidung": "Hello Huy",
+      "image": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FASM_MOB306_PH30524-a59e6752-9cf9-4bc3-be64-fd962defe1b9/ImagePicker/db927abb-6bf1-435b-b4ab-97f94218287c.jpeg",
+      "thoigian": "26/12/2023",
+      "id": "1"
+    },
+    {
+      "avatar": "https://i.imgur.com/qY9H6zB.jpg",
+      "tentk": "Lê Văn Huy",
+      "noidung": "I am Huy",
+      "image": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FASM_MOB306_PH30524-a59e6752-9cf9-4bc3-be64-fd962defe1b9/ImagePicker/061f5e22-92ac-47e4-a60d-092778ee6dee.png",
+      "thoigian": "26/12/2023",
+      "id": "m8cpU7R"
+    },
+    {
+      "avatar": "https://i.imgur.com/qY9H6zB.jpg",
+      "tentk": "Lê Văn Huy",
+      "noidung": "Hello",
+      "image": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FASM_MOB306_PH30524-a59e6752-9cf9-4bc3-be64-fd962defe1b9/ImagePicker/4c5a16fb-f406-429b-bf99-a3e52ff89dfd.jpeg",
+      "thoigian": "26/12/2023",
+      "id": "QJVuJEK"
+    }
+  ]
+}
